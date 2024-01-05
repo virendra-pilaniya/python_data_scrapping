@@ -1,0 +1,3 @@
+selenium
+pandas
+xlsx2csv
